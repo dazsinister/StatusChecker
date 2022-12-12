@@ -1,0 +1,4 @@
+This is a status checker that I have been working on. The main code was written by someone else and my code surrounding it. So far it seems to work well minus
+no loop function which I'm currently working on resolving. 
+
+The main idea behind it is it signs into a website and checks your order status. When your order status changes it will email you using Gmail services.
